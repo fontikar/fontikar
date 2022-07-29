@@ -1,6 +1,6 @@
 ### Oh hello! 👋
 
-My name is Fonti and I like to code, bake and freedive 👩‍💻🍰🪸
+My name is Fonti and I like to bake, swim and solve R code mysteries.  👩‍💻🍰🪸
 
 - 🔭 I’m currently working on streamling data cleaning workflows for @AtlasOfLivingAustralia
 - 🌱 I’m always learning about the latest R package dev practices
